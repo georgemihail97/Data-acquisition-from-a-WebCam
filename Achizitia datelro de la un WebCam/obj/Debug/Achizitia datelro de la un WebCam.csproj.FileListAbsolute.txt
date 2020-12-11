@@ -1,0 +1,54 @@
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.csprojAssemblyReference.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia_datelro_de_la_un_WebCam.Form1.resources
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia_datelro_de_la_un_WebCam.Properties.Resources.resources
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.csproj.GenerateResource.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.csproj.CoreCompileInputs.cache
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\Achizitia datelro de la un WebCam.exe.config
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\Achizitia datelro de la un WebCam.exe
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\Achizitia datelro de la un WebCam.pdb
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Blob.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Extensions.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.pdb
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.xml
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Blob.pdb
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Blob.xml
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Extensions.xml
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.csproj.CopyComplete
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.exe
+D:\10205\10205A\BatieGeorgeMihail\Sisteme de IO\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\Achizitia datelro de la un WebCam.exe.config
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\Achizitia datelro de la un WebCam.exe
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\Achizitia datelro de la un WebCam.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.xml
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.csprojAssemblyReference.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia_datelro_de_la_un_WebCam.Form1.resources
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia_datelro_de_la_un_WebCam.Properties.Resources.resources
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.csproj.GenerateResource.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.csproj.CoreCompileInputs.cache
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.csproj.CopyComplete
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.exe
+C:\Users\dumit\OneDrive\Desktop\Proiecte\C#\N_sie\Laborator\Achizitia datelro de la un WebCam\Achizitia datelro de la un WebCam\obj\Debug\Achizitia datelro de la un WebCam.pdb
